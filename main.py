@@ -6,8 +6,8 @@ from pyrogram import Client, filters
 from pyrogram.types import Message
 
 # API Config
-API_ID = 1234567        # YEH BADALO — apna daalo
-API_HASH = "your_api_hash_here"  # YEH BADALO
+API_ID = 32095526       # YEH BADALO — apna daalo
+API_HASH = "c1e3a1ee2fedb25b69b3d7b0e2fefd3e"  # YEH BADALO
 
 # Jitne chahe utne sessions yahan add karo
 SESSIONS = ["account1", "account2", "account3"]
